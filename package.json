@@ -1,0 +1,16 @@
+{
+  "name": "vp-check",
+  "version": "1.0.0",
+  "description": "Steem.js for discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Gurei <binjeeclick@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eris": "^0.8.0",
+    "steem": "^0.6.4"
+  }
+}
